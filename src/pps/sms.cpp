@@ -1,3 +1,1 @@
-this is samplecode
-wel come to all
-sample code
+this is a sample code line first
