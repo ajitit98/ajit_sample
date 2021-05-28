@@ -1,1 +1,1 @@
-this is a sample sms code
+this is samplecode
